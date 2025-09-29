@@ -58,7 +58,7 @@ Subtitle File: Located in subtitles/GnomeOnARope_subtitles.srt
 
 
 
-## .gitignore
+ .gitignore
 
 This project includes a .gitignore configured for Unity. It excludes:
 
